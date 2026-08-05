@@ -1,103 +1,23 @@
-<div align="center">
+# Hi 👋, I'm bnBurned
 
-```bash
-┌────────────────────────────────────────────────────────┐
-│  root@bnBurned:~# whoami                                │
-│  > bnBurned                                              │
-│                                                          │
-│  root@bnBurned:~# ./identify.sh                          │
-│  > Yazılım Geliştirici tespit edildi ⚡                  │
-│                                                          │
-│  root@bnBurned:~# systemctl status curiosity.service      │
-│  ● curiosity.service - active (running) since forever    │
-└────────────────────────────────────────────────────────┘
-```
+### he/him/developer
 
-<a href="https://github.com/bnBurned">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+bnBurned;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftiricisiyim;S%C3%BCrekli+%C3%B6%C4%9Freniyorum+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bnBurned&label=Profile views&color=0e75b6&style=flat" alt="bnBurned" /> </p>
 
-<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bnBurned" alt="bnBurned" /></a> </p>
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00D9FF?style=for-the-badge&logo=statuspage&logoColor=0D1117)
-![Access](https://img.shields.io/badge/ACCESS-GRANTED-00D9FF?style=for-the-badge&logo=hackthebox&logoColor=0D1117)
-![Encryption](https://img.shields.io/badge/ENCRYPTION-AES--256-00D9FF?style=for-the-badge&logo=letsencrypt&logoColor=0D1117)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/bnBurned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bnBurned" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bnBurned" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bnBurned" height="30" width="40" /></a>
+</p>
 
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/apachecordova" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/apachecordova/E8E8E8" alt="apachecordova" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ionic" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a></p>
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-00D9FF?style=for-the-badge&logo=x&logoColor=0D1117"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-00D9FF?style=for-the-badge&logo=instagram&logoColor=0D1117"/></a>
-<a href="mailto:seninmailin@example.com"><img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117"/></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bnBurned&show_icons=true&locale=en&layout=compact" alt="bnBurned" /></p>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bnBurned&show_icons=true&locale=en" alt="bnBurned" /></p>
 
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bnBurned&" alt="bnBurned" /></p>
 
-## 👨‍💻 Hakkımda
-
-```bash
-root@bnBurned:~# cat hakkimda.txt
-------------------------------------------------------------
-🔭 Şu an üzerinde çalıştığım  : [proje adını buraya yaz]
-🌱 Şu sıralar öğrendiğim      : [öğrendiğin teknoloji]
-👯 İş birliğine açık olduğum  : [ilgi alanın]
-💬 Bana sorabileceğin konu    : [uzmanlık alanın]
-📫 İletişim                   : [email adresin]
-⚡ İlginç bir gerçek           : [buraya bir şey yaz]
-------------------------------------------------------------
-```
-
-<br/>
-
-## 🛠️ Teknolojiler & Araçlar
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,github,docker,figma&theme=dark" />
-</div>
-
-> 💡 Bu satırdaki ikonlar örnek — gerçekte kullandığın dil/framework/araçları yaz, sana özel bir set oluşturayım.
-
-<br/>
-
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bnBurned&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=bnBurned&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnBurned&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-</div>
-
-<br/>
-
-## 🏆 Trophy Vitrini
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bnBurned&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-
-<br/>
-
-## 🐍 Katkı Yılanı
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bnBurned/bnBurned/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-> ⚠️ Bu görsel henüz görünmeyecek — aşağıda anlattığım Action'ı repona eklemen ve bir kere çalıştırman lazım.
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bnBurned&label=Profil%20Ziyaret%C3%A7isi&color=00d9ff&style=flat" />
-</div>
-
-<br/>
-
-```bash
-root@bnBurned:~# exit
-> Bağlantı sonlandırıldı. Güvenli çıkış yapıldı. 🔒
-```
