@@ -1,10 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00d9ff,100:0f2027&height=200&section=header&text=Merhaba,%20Ben%20bnBurned%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici%20%E2%9A%A1&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+```bash
+┌────────────────────────────────────────────────────────┐
+│  root@bnBurned:~# whoami                                │
+│  > bnBurned                                              │
+│                                                          │
+│  root@bnBurned:~# ./identify.sh                          │
+│  > Yazılım Geliştirici tespit edildi ⚡                  │
+│                                                          │
+│  root@bnBurned:~# systemctl status curiosity.service      │
+│  ● curiosity.service - active (running) since forever    │
+└────────────────────────────────────────────────────────┘
+```
 
 <a href="https://github.com/bnBurned">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+bnBurned;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftiricisiyim;S%C3%BCrekli+%C3%B6%C4%9Freniyorum+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+bnBurned;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftiricisiyim;S%C3%BCrekli+%C3%B6%C4%9Freniyorum+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
+
+<br/>
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00D9FF?style=for-the-badge&logo=statuspage&logoColor=0D1117)
+![Access](https://img.shields.io/badge/ACCESS-GRANTED-00D9FF?style=for-the-badge&logo=hackthebox&logoColor=0D1117)
+![Encryption](https://img.shields.io/badge/ENCRYPTION-AES--256-00D9FF?style=for-the-badge&logo=letsencrypt&logoColor=0D1117)
 
 <br/>
 
@@ -19,12 +36,17 @@
 
 ## 👨‍💻 Hakkımda
 
-- 🔭 Şu anda **[proje adını buraya yaz]** üzerinde çalışıyorum
-- 🌱 Şu sıralar **[öğrendiğin teknoloji]** öğreniyorum
-- 👯 **[ilgi alanın]** ile ilgili projelerde iş birliğine açığım
-- 💬 Bana **[uzmanlık alanın]** hakkında soru sorabilirsin
-- 📫 Bana ulaş: **[email adresin]**
-- ⚡ İlginç bir gerçek: **[buraya bir şey yaz]**
+```bash
+root@bnBurned:~# cat hakkimda.txt
+------------------------------------------------------------
+🔭 Şu an üzerinde çalıştığım  : [proje adını buraya yaz]
+🌱 Şu sıralar öğrendiğim      : [öğrendiğin teknoloji]
+👯 İş birliğine açık olduğum  : [ilgi alanın]
+💬 Bana sorabileceğin konu    : [uzmanlık alanın]
+📫 İletişim                   : [email adresin]
+⚡ İlginç bir gerçek           : [buraya bir şey yaz]
+------------------------------------------------------------
+```
 
 <br/>
 
@@ -42,7 +64,7 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=bnBurned&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bnBurned&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=bnBurned&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 </div>
 
 <div align="center">
@@ -65,7 +87,7 @@
   <img src="https://raw.githubusercontent.com/bnBurned/bnBurned/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> Bu animasyonun görünmesi için repona küçük bir GitHub Action eklemen lazım — aşağıda anlatıyorum 👇
+> ⚠️ Bu görsel henüz görünmeyecek — aşağıda anlattığım Action'ı repona eklemen ve bir kere çalıştırman lazım.
 
 <br/>
 
@@ -73,4 +95,9 @@
   <img src="https://komarev.com/ghpvc/?username=bnBurned&label=Profil%20Ziyaret%C3%A7isi&color=00d9ff&style=flat" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00d9ff,100:0f2027&height=100&section=footer" width="100%"/>
+<br/>
+
+```bash
+root@bnBurned:~# exit
+> Bağlantı sonlandırıldı. Güvenli çıkış yapıldı. 🔒
+```
