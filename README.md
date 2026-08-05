@@ -1,44 +1,67 @@
 <div align="center">
 
-<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
 <defs>
-<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#04070D"/>
-<stop offset="100%" stop-color="#081B28"/>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#03060b"/>
+<stop offset="100%" stop-color="#081b28"/>
 </linearGradient>
-<linearGradient id="line" x1="0%" x2="100%">
-<stop offset="0%" stop-color="#00D9FF"/>
-<stop offset="100%" stop-color="#74F7FF"/>
+<linearGradient id="c" x1="0" x2="1">
+<stop offset="0%" stop-color="#00d9ff"/>
+<stop offset="100%" stop-color="#79f7ff"/>
 </linearGradient>
-<filter id="g"><feGaussianBlur stdDeviation="10"/></filter>
+<filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
 </defs>
-<rect x="40" y="25" rx="34" width="820" height="170" fill="url(#bg)" stroke="url(#line)" stroke-width="2"/>
-<rect x="65" y="45" rx="24" width="770" height="130" fill="white" fill-opacity="0.03"/>
-<line x1="80" y1="55" x2="820" y2="55" stroke="#7CF6FF" opacity=".15"/>
-<circle cx="785" cy="72" r="24" fill="#00D9FF" opacity=".15" filter="url(#g)"/>
-<text x="450" y="95" fill="white" text-anchor="middle" font-size="42" font-family="monospace">bnBurned</text>
-<text x="450" y="130" fill="#8DEEFF" text-anchor="middle" font-size="18" font-family="monospace">AI Engineer • Automation Developer</text>
-<text x="450" y="158" fill="#9AA9B5" text-anchor="middle" font-size="14" font-family="monospace">Building tools that build tools.</text>
+<circle cx="170" cy="60" r="90" fill="#00d9ff" opacity=".12" filter="url(#blur)"/>
+<circle cx="1030" cy="220" r="120" fill="#5ffcff" opacity=".08" filter="url(#blur)"/>
+<rect x="40" y="30" rx="38" width="1120" height="220" fill="url(#bg)" stroke="url(#c)" stroke-width="2"/>
+<rect x="70" y="55" rx="28" width="1060" height="170" fill="#ffffff" fill-opacity=".03"/>
+<path d="M70 90H1130" stroke="#8ff" opacity=".12"/>
+<text x="600" y="118" fill="white" text-anchor="middle" font-size="48" font-family="monospace">bnBurned</text>
+<text x="600" y="155" fill="#9ff8ff" text-anchor="middle" font-size="20" font-family="monospace">AI Engineer • Automation Developer</text>
+<text x="600" y="188" fill="#9fb3c2" text-anchor="middle" font-size="15" font-family="monospace">Building tools that build tools.</text>
 </svg>
 
 </div>
 
-About
+<img height="18" src="https://skillicons.dev/icons?i=python"> About
 
-I enjoy building local AI systems, automation pipelines and desktop applications.Most of my work revolves around performance, clean architecture and creating tools that solve real problems.
+I build local AI systems, automation pipelines and high performance desktop software.I enjoy understanding how software works under the hood and turning ideas into polished tools.
 
-Focus:
-• Artificial Intelligence
-• Automation
-• Desktop Applications
-• Local AI Workflows
-• Reverse Engineering
-• Performance Optimization
+<table>
+<tr>
+<td>
+
+Focus
+
+Artificial Intelligence
+
+Automation
+
+Desktop Applications
+
+Reverse Engineering
+
+Performance Optimization
+
+</td>
+<td>
+
+Philosophy
+
+Think.
+Build.
+Optimize.
+Repeat.
+
+</td>
+</tr>
+</table>
 
 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,electron,nodejs,flask,docker,git,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,electron,nodejs,flask,docker,git,linux,vscode&perline=7"/>
 </p>
 
 AI Stack
@@ -49,26 +72,17 @@ AI Stack
 
 </p>
 
-GitHub Stats
+Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bnBurned&theme=transparent&hide_border=true&title_color=00D9FF&text_color=D9FBFF&icon_color=00E5FF"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnBurned&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=D9FBFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bnBurned&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=e7fbff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnBurned&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=e7fbff"/>
 </p>
 
 <div align="center">
-
-<svg width="900" height="90" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="f" x1="0%" x2="100%">
-<stop offset="0%" stop-color="#00D9FF"/>
-<stop offset="100%" stop-color="#7EF9FF"/>
-</linearGradient>
-</defs>
-<rect x="20" y="15" width="860" height="60" rx="22" fill="#07111A" stroke="url(#f)"/>
-<text x="450" y="52" fill="#EAFDFF" font-size="18" text-anchor="middle" font-family="monospace">
-BUILDING THE FUTURE • ONE SCRIPT AT A TIME
-</text>
+<svg width="100%" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0%" stop-color="#00d9ff"/><stop offset="100%" stop-color="#7efcff"/></linearGradient></defs>
+<rect x="40" y="15" width="1120" height="60" rx="22" fill="#07131d" stroke="url(#g)"/>
+<text x="600" y="52" text-anchor="middle" fill="#ecfeff" font-size="18" font-family="monospace">BUILDING THE FUTURE • ONE SCRIPT AT A TIME</text>
 </svg>
-
 </div>
